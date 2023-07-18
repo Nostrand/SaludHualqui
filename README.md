@@ -1,9 +1,14 @@
 # SaludHualqui
 
 ## Description
+<img src="img/salud-hualqui-preview.png" width="800">
 This project focuses on redesigning a website for a healthcare center, utilizing a pre-existing HTML template as a starting point. The objective was to create an updated and user-friendly website to organize and present information for a local health center. Through this mini-project, I was tasked with enhancing the website's design and content, while also optimizing its performance to ensure faster loading times and improved user experience.
 
 *The language of the website is in Spanish.
+
+## PageSpeed Insights
+
+<img src="img/salud-hualqui-page-speed-insights.png" width="600">
 
 ## License
 The image contents of the repository are covered under the [freepik](https://profile.freepik.com/license/free) license.
