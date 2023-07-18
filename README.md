@@ -1,9 +1,7 @@
 # SaludHualqui
 
 ## Description
-This is a simple website made by making minor changes to an HTML template, for a multimedia course.
-
-The goal of this mini-project was that each student created one website to organize and display information of a local health center, some of which didn't have a website or they had an outdated version.
+This project focuses on redesigning a website for a healthcare center, utilizing a pre-existing HTML template as a starting point. The objective was to create an updated and user-friendly website to organize and present information for a local health center. Through this mini-project, I was tasked with enhancing the website's design and content, while also optimizing its performance to ensure faster loading times and improved user experience.
 
 *The language of the website is in Spanish.
 
