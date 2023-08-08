@@ -2,9 +2,9 @@
 
 ## Description
 <img src="img/salud-hualqui-preview.png" width="800">
-This project focuses on redesigning a website for a healthcare center, utilizing a pre-existing HTML template as a starting point. The objective was to create an updated and user-friendly website to organize and present information for a local health center. Through this mini-project, I was tasked with enhancing the website's design and content, while also optimizing its performance to ensure faster loading times and improved user experience.
+This project centers around creating a new website for a healthcare center, building upon a pre-existing HTML template. The goal was to develop a modern, user-friendly website that effectively conveys information for a local Hualqui health center. Throughout this mini-project, I undertook the responsibility of enhancing the website's design and content, also optimizing its performance to ensure quicker loading speeds and an enhanced user experience.
 
-*The language of the website is in Spanish.
+*The language of the website is Spanish.
 
 ## PageSpeed Insights
 
